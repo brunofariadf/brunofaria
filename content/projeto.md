@@ -1,6 +1,6 @@
 ---
 title: "Projeto"
-description: "desenvolvido de estatística e programação"
+description: "em estatística e programação"
 draft: false
 mathjax: true
 ---
@@ -15,7 +15,7 @@ mathjax: true
   <tr>
    <th style="text-align:center;"> Icone </th>
    <th style="text-align:center"> Projeto </th>
-   <th style="text-align:center;"> Ano </th>
+   <th style="text-align:center;"> Status </th>
    <th style="text-align:center;"> Descrição </th>
   </tr>
  </thead>
@@ -33,15 +33,15 @@ mathjax: true
    <td style="text-align:center;text-align:justify"> Esse projeto constitui criação de <b><mark style="background-color: #EEE8E7; color: black;">/painel</mark></b> com objetivo de estudo sobre total de medalha olímpica com dados públicos coletados.</td>
   </tr> -->
   <tr>
-   <td style="text-align:left;"> <a href="//www.google.com"><img src="/software.png" style="float:left;" width="42px" class="media-object  img-responsive img-thumbnail"></a> </td>
-   <td style="text-align:left;"> <a href="https://www.linkedin.com/in/brunofariadf">Software</a> </td>
-   <td style="text-align:left;"> 2022 </td>
+   <td style="text-align:left;"> <a href="https://brunofariadf.github.io/projeto/"><img src="/img/software.png" style="float:left;" width="42px" class="media-object  img-responsive img-thumbnail"></a> </td>
+   <td style="text-align:left;"> <a href="https://brunofariadf.github.io/projeto/">Software</a> </td>
+   <td style="text-align:left;"> incompleto </td>
    <td style="text-align:center;text-align:justify"> Esse projeto constitui criação de <b><mark style="background-color: #EEE8E7; color: black;">/pacote</mark></b> para automatizar processo em linguagem de programação R.</td>
   </tr>
   <tr>
-   <td style="text-align:left;"> <a href="//www.google.com"><img src="/dataset.png" style="float:left;" width="42px" class="media-object  img-responsive img-thumbnail"></a> </td>
-   <td style="text-align:left;"> <a href="https://www.linkedin.com/in/brunofariadf">Conjunto de Dados</a> </td>
-   <td style="text-align:left;"> 2022 </td>
+   <td style="text-align:left;"> <a href="https://brunofariadf.github.io/projeto/"><img src="/img/dataset.png" style="float:left;" width="42px" class="media-object  img-responsive img-thumbnail"></a> </td>
+   <td style="text-align:left;"> <a href="https://brunofariadf.github.io/projeto/">Conjunto de Dados</a> </td>
+   <td style="text-align:left;"> incompleto </td>
    <td style="text-align:center;text-align:justify"> Esse projeto constitui criação de <b><mark style="background-color: #EEE8E7; color: black;">/repositório</mark></b> com objetivo de obter conjunto de dados coletados via web scraping.</td>
   </tr>
     <!-- <tr>
