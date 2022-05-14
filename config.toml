@@ -1,0 +1,87 @@
+baseURL = "https://brunofariadf.github.io/"
+languageCode = "en-us"
+title = "Bruno Faria"
+theme = "minimal"
+googleAnalytics = ""
+
+# basic config
+[params]
+    author = "Bruno Faria"
+    description = "estudante de estatística"
+    lang = "pt-br"
+    githubUsername = ""
+    accent = "#0489B1"
+    showBorder = true
+    backgroundColor = "white"
+    font = "Raleway" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "solarized-light"
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift", "r", "python", "tex"]
+    pygmentsCodeFences = true
+    pygmentsUseClasses = false
+    pygmentsStyle = "autumn"
+
+[params.favicon]
+    # you may want to use https://realfavicongenerator.net to generate you files
+    # used in layouts/partials/head.favicon.html
+    # relURL is applied to path
+    enable    = true
+    path      = "/static/favicon"
+    version   = ""
+    maskIicon = ""
+    tileColor = ""
+    themeColor= ""
+
+# allow HTML in md files
+[markup.goldmark.renderer]
+  unsafe = true
+
+# icons and link
+[[menu.main]]
+    url = "/"
+    name = "Início"
+    weight = 1
+
+[[menu.main]]
+    url = "/sobre/"
+    name = "Sobre"
+    weight = 2
+
+[[menu.main]]
+    url = "/projeto/"
+    name = "Projeto"
+    weight = 3
+
+# [[menu.main]]
+#     url = "/blog/"
+#     name = "Blog"
+#     weight = 4
+
+[[menu.main]]
+    url = "/guia/"
+    name = "Guia"
+    weight = 4
+
+# Social icons to be shown on the right-hand side of the navigation bar
+# The "name" field should match the name of the icon to be used
+# The list of available icons can be found at http://fontawesome.io/icons/
+
+[[menu.icon]]
+    url = "mailto:brunofariadf@gmail.com"
+    name = "fas fa-envelope"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://github.com/brunofariadf/"
+    name = "fab fa-github"
+    weight = 2
+
+[[menu.icon]]
+    url = "https://www.linkedin.com/in/brunofariadf/"
+    name = "fab fa-linkedin"
+    weight = 3
+
+[[menu.icon]]
+    url = "https://twitter.com/brunofariadf/"
+    name = "fab fa-twitter"
+    weight = 4
