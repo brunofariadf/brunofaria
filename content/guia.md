@@ -1,7 +1,7 @@
 ---
 title: "Guia"
 description: "Indicação de material para estudo com foco em estatística, matemática e programação"
-draft: true
+draft: false
 mathjax: true
 ---
 <div class="col-sm-18">

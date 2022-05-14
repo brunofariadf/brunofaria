@@ -21,6 +21,14 @@ googleAnalytics = ""
     pygmentsUseClasses = false
     pygmentsStyle = "autumn"
 
+# default name for file
+[permalinks]
+    project = "/:filename/"
+
+# allow HTML in md files
+[markup.goldmark.renderer]
+  unsafe = true
+
 [params.favicon]
     # you may want to use https://realfavicongenerator.net to generate you files
     # used in layouts/partials/head.favicon.html
@@ -31,10 +39,6 @@ googleAnalytics = ""
     maskIicon = ""
     tileColor = ""
     themeColor= ""
-
-# allow HTML in md files
-[markup.goldmark.renderer]
-  unsafe = true
 
 # icons and link
 [[menu.main]]

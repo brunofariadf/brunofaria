@@ -1,7 +1,7 @@
 ---
 title: "Projeto"
 description: "desenvolvido de estatística e programação"
-draft: true
+draft: false
 mathjax: true
 ---
 <center>
