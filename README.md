@@ -23,7 +23,7 @@ Conduct](https://contributor-covenant.org/version/2/0/CODE_OF_CONDUCT.html). By 
 
 # License
 
-MIT
+[MIT](https://github.com/brunofariadf/brunofaria/blob/main/LICENSE)
 
 <!-- |dataset          | Nationality flag  |
 | ------------- |:-----------------:|
