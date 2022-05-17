@@ -10,8 +10,9 @@ These are the codes of the Hugo framework website, which was customized with a m
 # Usage
 
 - cmd
-``` cmd
-./hugo/sites/brunofaria > hugo server --theme=minimal --buildDrafts
+``` bat
+> cd Hugo/Sites/BrunoFaria
+> hugo server --theme=minimal --buildDrafts
 ```
 
 # Code of Conduct
