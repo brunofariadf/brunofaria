@@ -11,6 +11,8 @@ These are the codes of the Hugo framework website, which was customized with a m
 
 - cmd
 ``` bat
+> if exist "~/Hugo/bin/hugo.exe" (echo "TRUE") else (echo "FALSE")
+>
 > cd Hugo/Sites/BrunoFaria
 > hugo server --theme=minimal --buildDrafts
 ```
