@@ -5,7 +5,7 @@ development](https://img.shields.io/badge/status-development-blue)
 
 # Overview
 
-These are the codes of the Hugo framework website, which was customized with a minimal theme.  The reproduction is open source.
+These are the codes of the [Hugo](https://gohugo.io/) framework website, which was customized with a [minimal](https://github.com/calintat/minimal) theme.  The reproduction is open source.
 
 # Usage
 
@@ -26,9 +26,3 @@ Conduct](https://contributor-covenant.org/version/2/0/CODE_OF_CONDUCT.html). By 
 # License
 
 [MIT](https://github.com/brunofariadf/brunofaria/blob/main/LICENSE)
-
-<!-- |dataset          | Nationality flag  |
-| ------------- |:-----------------:|
-| CA            |  ![ca]            |
-
-[ca]: http://usa.flagpedia.net/data/flags/mini/ca.png -->
