@@ -23,7 +23,7 @@ mathjax: true
   </tr>
   <tr>
    <td style="text-align:left;"> <b>Guia</b> </td>
-   <td style="text-align:center;text-align:justify"> Na aba <b><mark style="background-color: #EEE8E7; color: black;">/guia</mark></b> é apresentado tabela com sugestão de leitura de material criado por outros profissionais com foco em matemática, estatística e programação. Além disso, é fornecido um tutorial básico para linguagem de programação.</td>
+   <td style="text-align:center;text-align:justify"> Na aba <b><mark style="background-color: #EEE8E7; color: black;">/guia</mark></b> é apresentado tabela com sugestão de leitura de material criado por outros profissionais com foco em matemática, estatística e programação.</td>
   </tr>
   <tr>
    <td style="text-align:left;"> <b>Contato</b> </td>
