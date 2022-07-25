@@ -1,4 +1,4 @@
-baseURL = "https://brunofariadf.github.io/"
+baseURL = ""
 languageCode = "en-us"
 title = "Bruno Faria"
 theme = "minimal"
@@ -20,10 +20,12 @@ googleAnalytics = ""
     pygmentsCodeFences = true
     pygmentsUseClasses = false
     pygmentsStyle = "autumn"
+relativeURLs = true
+uglyURLs = true
 
 # default name for file
-[permalinks]
-    project = "/:filename/"
+# [permalinks]
+#     project = "/:filename/"
 
 # allow HTML in md files
 [markup.goldmark.renderer]

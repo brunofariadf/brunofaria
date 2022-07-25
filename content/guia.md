@@ -96,7 +96,7 @@ Indicação de livro-texto para quem estiver interessado tanto em aprender sobre
    <td style="text-align:center;"> <b>Estatística</b>: o que é, para que serve, como funciona </td>
    <td style="text-align:center"> <a href="https://www.companhiadasletras.com.br/livro/9788537815120/estatistica">Zahar</a>.</td>
    <td style="text-align:center;"> 2016.</td>
-   <td style="text-align:center;"> Introdução.</td>
+   <td style="text-align:center;"> Introdução. </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MARTINS, G. DOMINGUES, O. </td>
