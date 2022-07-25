@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://brunofariadf.github.io/"
 languageCode = "en-us"
 title = "Bruno Faria"
 theme = "minimal"
