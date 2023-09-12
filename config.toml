@@ -7,7 +7,7 @@ googleAnalytics = ""
 # basic config
 [params]
     author = "Bruno Faria"
-    description = "estudante de estatística"
+    description = "analista e programador"
     lang = "pt-br"
     githubUsername = ""
     accent = "#0489B1"
@@ -58,15 +58,20 @@ uglyURLs = true
     name = "Projeto"
     weight = 3
 
+[[menu.main]]
+    url = "/talk/"
+    name = "Talk"
+    weight = 4
+
 # [[menu.main]]
 #     url = "/blog/"
 #     name = "Blog"
 #     weight = 4
 
-[[menu.main]]
-    url = "/guia/"
-    name = "Guia"
-    weight = 4
+# [[menu.main]]
+#     url = "/guia/"
+#     name = "Guia"
+#     weight = 4
 
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
@@ -87,7 +92,7 @@ uglyURLs = true
     name = "fab fa-linkedin"
     weight = 3
 
-[[menu.icon]]
-    url = "https://twitter.com/brunofariadf/"
-    name = "fab fa-twitter"
-    weight = 4
+# [[menu.icon]]
+#     url = "https://twitter.com/brunofariadf/"
+#     name = "fab fa-twitter"
+#     weight = 4
